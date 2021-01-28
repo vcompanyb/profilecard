@@ -1,5 +1,5 @@
 import "../style/index.scss";
-
+a
 /**
  *  EDIT ONLY INSIDE THIS RENDER FUNCTION
  *  This function is called every time the user changes types or changes any input
